@@ -1,8 +1,8 @@
 # Bullockcart-Creation
 
-##Aim:To creat a scene of moving Bullockcart.
+### Aim:To creat a scene of moving Bullockcart.
 
-##Procedure
+## Procedure
 
 1.Start the process by creating a rectanlge and extruding it.
 
@@ -23,9 +23,11 @@
 9.Make the moving gestures for the bull and the cart.
 
 10.It can be done by creating frames for each individual item.
+ 
+## Output
+Youtube link:-https://youtu.be/wZhGz_x7imE
 
-1.make 
+## Result
+Therefore a Bullockcart is created successfully.
 
-##Output
 
-##Result
