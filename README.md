@@ -1,6 +1,7 @@
 # Bullockcart-Creation
 
-### Aim:To creat a scene of moving Bullockcart.
+### Aim:
+To create a scene of moving Bullockcart.
 
 ## Procedure
 
